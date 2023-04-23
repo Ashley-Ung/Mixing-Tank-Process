@@ -30,3 +30,7 @@ Subroutine: Drain
 
 <img width="747" alt="drain1" src="https://user-images.githubusercontent.com/62251927/233867016-84490692-1cf2-425a-b43b-50aa95640b69.PNG">
 <img width="746" alt="drain 2" src="https://user-images.githubusercontent.com/62251927/233867018-a0d57afb-d0cc-4ad6-8cd4-d0c44a81df61.PNG">
+
+Parameters and Local Tags: 
+
+<img width="569" alt="tags" src="https://user-images.githubusercontent.com/62251927/233867055-b925cfb4-8d2d-4fb1-8f71-d78d550fb823.PNG">
