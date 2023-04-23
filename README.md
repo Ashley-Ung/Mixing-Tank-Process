@@ -10,3 +10,5 @@ The communication driver is in slot 0. The controller utilized is in slot 3. The
 The Mixing Tank Process: 
 
 <img width="331" alt="s" src="https://user-images.githubusercontent.com/62251927/233866533-0a7221b3-ecf6-44d5-a6e4-484cde830bcb.PNG">
+<img width="240" alt="tank equip" src="https://user-images.githubusercontent.com/62251927/233867538-bd46185f-29f7-48b1-b114-eff8c4cfe868.PNG">
+
